@@ -1,8 +1,9 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi,+I'm+Abdullahi+Ali+🧑🏻‍💻;&color=9a2015" />
 </h1>
-
+<!-- 
 <h3 align="center">A passionate full-stack developer from Somalia <br> & <br> I'm really pretty keen on learning new things about technology and teaching it to my people.</h3>
+-->
 &nbsp; &nbsp;
 
 ### 🐍 A Fun Representation of My GitHub Activity
